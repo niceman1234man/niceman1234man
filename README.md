@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **web PROGRAMMING**
 
-- 👨‍💻 All of my projects are available at [[https://niceman1234man.github.io/portfolio/](https://niceman1234man.github.io/portfolio/](https://yihunie-tarekegn.netlify.app/))
+- 👨‍💻 All of my projects are available at [https://niceman1234man.github.io/portfolio/](https://niceman1234man.github.io/portfolio/](https://yihunie-tarekegn.netlify.app/))
 
 - 📫 How to reach me **yihunietarekegn18@gmail.com**
 
